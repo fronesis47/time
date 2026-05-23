@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor files (if applicable)
+*.swp
+*~
+
