@@ -17,7 +17,7 @@ None of the above should be understood as a blunt “anti-technology” stance, 
 
 ## Exceptions
 
-When it comes to the second part of our prime directive (paper), digital technology has already revolutionized our access to written information. A single Kindle can easily “hold” 1,000 books, and a PDF reader or tablet allows interactions with written text that both includes what we can do with printed paper and in some ways go beyond it. In order to make it possible for us to gain the obvious benefits of digital tech, while still trying to avoid the dangers of networked devices, you will have two options in this class. First, you can stick to P&P, printing out your reading assignments, marking them up with pencil, highlighter, or pen, and bringing them to class. Alternatively, you may also choose either of the following options for accessing and bringing your readings to class:
+When it comes to the second part of our prime directive (paper), digital technology has already revolutionized our access to written information. A single Kindle can easily “hold” 1,000 books, and a PDF reader or tablet allows interactions with written text that both includes what we can do with printed paper and in some ways goes beyond it. In order to make it possible for us to gain the obvious benefits of digital tech, while still trying to avoid the dangers of networked devices, you will have two options in this class. First, you can stick to P&P, printing out your reading assignments, marking them up with pencil, highlighter, or pen, and bringing them to class. Alternatively, you may also choose either of the following options for accessing and bringing your readings to class:
 
 1. **Use an e-ink PDF reader** *if and only if* it has no other apps, no notifications, and no internet access.
 3. **Use an iPad with “Guided Access”** turned on (i), password protected (ii), with timer set to 3 hours (iii).
@@ -25,4 +25,4 @@ When it comes to the second part of our prime directive (paper), digital technol
 
 ### Final Note on Tech *Outside* the Classroom
 
-I am a scholar and a teacher, not a cop. It is neither my job nor my calling to police the behavior of students outside the classroom. However, I strongly recommend against the use of LLMs, as you will not excel in this class if you do not think for yourself.
+I am a scholar and a teacher, not a cop. It is neither my job nor my calling to police the behavior of students outside the classroom. However, I strongly recommend against the use of LLMs: if you do not think for yourself in this class, you will neither learn anything nor excel in the class.
