@@ -5,7 +5,9 @@ author: Samuel A. Chambers
 
 # Classroom Tech Policy
 
+$\color{red} Text \ Sample$
 
+${\color{red}Red}$
 
 ## Background and First Principle
 
