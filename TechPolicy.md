@@ -7,7 +7,7 @@ author: Samuel A. Chambers
 
 $\color{red} Text \ Sample$
 
-${\color{red}Red}$
+${\color{red}Red\ And\ stuff}$
 
 ## Background and First Principle
 
