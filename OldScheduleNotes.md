@@ -1,4 +1,30 @@
 
+--- 
+
+Maybe the easiest thing to do is actually create separate, short `.md` files for each section of syllabus. 
+
+That would be:
+
+- [x] Course Info, including my details
+- [x] Brief Course Description
+- [x] Note on Accessibility
+- [ ] Seminar Schedule
+- [x] Assignments and Assessment
+- [x] Something with a name for what I have at the end of my F25 syllabus
+- [x] Links to file drops and readings
+
+
+Then I would still need, completely separate:
+- tech policy
+- mark-up assignment
+- other assignments?
+
+
+<!-- Maybe do these links in a nifty table? -->
+
+
+
+
 **Laclau**  
 
 

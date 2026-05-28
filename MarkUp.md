@@ -1,6 +1,10 @@
+---
+title: The “Mark-Up” Assignment
+author: Samuel A. Chambers
+---
     
 
-# The “Mark-UP” Assignment
+# The “Mark-Up” Assignment
 
 ### Background
 

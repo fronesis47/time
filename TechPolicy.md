@@ -3,11 +3,7 @@ title: Classroom Tech Policy
 author: Samuel A. Chambers
 ---
 
-# Classroom Tech Policy
-
-$\color{red} Text \ Sample$
-
-${\color{red}Red\ And\ stuff}$
+**Classroom Tech Policy**
 
 ## Background and First Principle
 
