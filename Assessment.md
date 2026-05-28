@@ -11,7 +11,7 @@ author: Samuel A. Chambers
 
 *“Mark-ups” (x5)* • 15%
 
-- You must submit 5 “mark-ups” of the readings, with marginal notes, highlights and highlight explanations. Due *prior to* start of the class that covers the readings. Of your 5 total, 2 are due before Exam 1; 2 are due between Exam 1 and Exam 2; 1 is due after Exam 2. For more details, see [markups](LINK).
+- You must submit 5 “mark-ups” of the readings, with marginal notes, highlights and highlight explanations. Due *prior to* start of the class that covers the readings. Of your 5 total, 2 are due before Exam 1; 2 are due between Exam 1 and Exam 2; 1 is due after Exam 2. For more details, see [markups](MarkUp.md).
 
 *In-Class Exegeses (x5)* • 15%
 

@@ -1,5 +1,10 @@
-# Schedule
+---
+title: Seminar Schedule
+author: Samuel A. Chambers
+---
 
+
+# Seminar Schedule
 
 | Date | Author(s) and Reading(s) | Selections |
 | :----: |------------------------|:-----------:|
