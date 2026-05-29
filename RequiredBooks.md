@@ -3,6 +3,9 @@ title: Required Books
 author: Samuel A. Chambers
 ---
 
+
+---
+
 Derrida, Jacques. 1995. *On the Name*. Stanford University Press. [http://archive.org/details/onname0000derr](http://archive.org/details/onname0000derr).[^1]
 
 Derrida, Jacques. 2011. *Specters of Marx: The State of the Debt, the Work of Mourning and the New International*. Repr. Translated by Peggy Kamuf. Routledge Classics. Routledge.
