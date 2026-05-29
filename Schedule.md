@@ -16,7 +16,7 @@ author: Samuel A. Chambers
 | 12 Oct | **Exam #1** |  |
 | 19 Oct |  Heidegger, *Introduction*  | vii–xix, 1–78         |
 | 26 Oct  |    Heidegger, *The Concept of Time*  |  vi–ix, 1–88   |
-| 2 Nov |   Derrida, “SEC”; “Khōra”        |  307–30; 89–127   |
+| 2 Nov |   Derrida, “SEC”[^2]; “Khōra”        |  307–30; 89–127   |
 | 9 Nov |   Derrida, *Specters*        |   vii–xii, 1–95         |
 | 16 Nov |    **Exam #2**       |            |
 |  30 Nov  |  Laclau, *Emancipations*  | vii–viii, 1–83 |
@@ -28,3 +28,4 @@ author: Samuel A. Chambers
 
 
 [^1]: 91, 97, 106–24, 136–52, 172–92, 193–200 (63 total pages)
+[^2]: Only available in the [extra readings folder](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/schamb12_jh_edu/IgDW13dSZMuFQq95PcD1lnnGAZHUBjXheBV0Ox7PLpJfMMg?e=ucplRr). 
