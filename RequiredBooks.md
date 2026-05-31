@@ -4,6 +4,9 @@ author: Samuel A. Chambers
 ---
 
 
+**Be certain to acquire only the specific editions listed below.**
+
+
 ---
 
 Derrida, Jacques. 1995. *On the Name*. Stanford University Press. [http://archive.org/details/onname0000derr](http://archive.org/details/onname0000derr).[^1]
@@ -14,7 +17,7 @@ Grosz, Elizabeth. 2004. *The Nick of Time: Politics, Evolution, and the Untimely
 
 Heidegger, Martin. 1992. *The Concept of Time*. Translated by William McNeill. Wiley-Blackwell.
 
-Heidegger, Martin. 2000. *Introduction to Metaphysics*. Yale University Press.
+Heidegger, Martin. 2000. *Introduction to Metaphysics*. Translated by Gregory Fried and Richard Polt. Yale University Press.
 
 Kant, Immanuel. 2016. *Prolegomena to Any Future Metaphysics*. Project Gutenberg.
 
