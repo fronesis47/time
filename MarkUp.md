@@ -30,7 +30,7 @@ Here’s what that looks like:
 -   A mark-up is just a copy of your marked-up readings for the week that you submit. 
 -   I prefer that you scan your copy and upload it to the FileDrop folder, *prior to class.*
 -   Following P&P principle, you can also give me your paper copy, *immediately after class.* I’ll return it the next week. 
--   For this course you must submit four (5) total mark-ups.
+-   For this course you must submit five (5) total mark-ups.
 	-   2 are due before Exam 1
 	-   2 are due between Exam 1 and Exam 2
 	-   1 is due after Exam 2.
