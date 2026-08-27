@@ -25,7 +25,5 @@ author: Samuel A. Chambers
 
 
 
-
-
 [^1]: 91, 97, 106–24, 136–52, 172–92, 193–200 (63 total pages)
 [^2]: Only available in the [extra readings folder](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/schamb12_jh_edu/IgDW13dSZMuFQq95PcD1lnnGAZHUBjXheBV0Ox7PLpJfMMg?e=ucplRr). 
