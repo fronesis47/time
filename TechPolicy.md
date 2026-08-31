@@ -3,7 +3,6 @@ title: Classroom Tech Policy
 author: Samuel A. Chambers
 ---
 
-**Classroom Tech Policy**
 
 ## Background and First Principle
 
