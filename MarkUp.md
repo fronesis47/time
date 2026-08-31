@@ -28,7 +28,7 @@ Here’s what that looks like:
 ### Details
 
 -   A mark-up is just a copy of your marked-up readings for the week that you submit. 
--   I prefer that you scan your copy and upload it to the [FileDrop folder](https://livejohnshopkins-my.sharepoint.com/:f:/r/personal/schamb12_jh_edu/Documents/1_Teaching/F26.FileDrop?csf=1&web=1&e=zUbDRW), *prior to class.*
+-   I prefer that you scan your copy and upload it to the [FileDrop folder](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/schamb12_jh_edu/IgAXIfDnX628QYi2htNhtrgDAR4jNx2U9ZYd2IC5332bV7g), *prior to class.*
 -   Following P&P principle, you can also give me your paper copy, *immediately after class.* I’ll return it the next week. 
 -   For this course you must submit five (5) total mark-ups.
 	-   2 are due before Exam 1
