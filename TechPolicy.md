@@ -1,6 +1,6 @@
 ---
 title: Classroom Tech Policy
-author: Samuel A. Chambers
+author: Samuel A. Chambers | September 2026
 ---
 
 
