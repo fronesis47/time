@@ -21,7 +21,7 @@ author: Samuel A. Chambers
 | 16 Nov |    **Exam #2**       |            |
 |  30 Nov  |  Laclau, *Emancipations*  | vii–viii, 1–83 |
 | 7 Dec |     Grosz, *Nick of Time*       |         1–154    |
-
+| 17 Dec | **Final Exam**     |   *2–5pm*   |
 
 
 
