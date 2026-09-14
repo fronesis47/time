@@ -15,7 +15,7 @@ Derrida, Jacques. 2011. *Specters of Marx: The State of the Debt, the Work of Mo
 
 Grosz, Elizabeth. 2004. *The Nick of Time: Politics, Evolution, and the Untimely*. Duke University Press.
 
-Heidegger, Martin. 1992. *The Concept of Time*. Translated by William McNeill. Wiley-Blackwell.
+Heidegger, Martin. 2011. *The Concept of Time*. Edited by Ingo Farin. Athlone Contemporary European Thinkers. London  and New York: Continuum.
 
 Heidegger, Martin. 2000. *Introduction to Metaphysics*. Translated by Gregory Fried and Richard Polt. Yale University Press.
 

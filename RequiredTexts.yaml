@@ -1,17 +1,22 @@
 ---
 references:
-- id: derridaName1995
+-
+  id: derridaName1995
+  abstract: 'xvi, 150 pages ; 23 cm; Passions: "An Oblique Offering" is a reflection on the question of the response, on the duty and obligation to respond, and on the possibility of not responding - which is to say, on the ethics and politics of responsibility. Sauf le nom (Post Scriptum) considers the problematics of naming and alterity, or transcendence, raised inevitably by a rigorous negative theology. Much of the text is organized around close readings of the poetry of Angelus Silesius. The final essay, Khora, explores the problem of space or spacing, of the word khora in Plato''s Timaeus. Even as it places and makes possible nothing less than the whole world, khora opens and dislocates, displaces, all the categories that govern the production of that world, from naming to gender. In addition to readers in philosophy and literature, Khora will be of special interest to those in the burgeoning field of "space studies" (architecture, urbanism, design); Includes bibliographical references (pages 131-150); Translating the name? / by Thomas Dutoit -- Passions -- Sauf le nom (Post-scriptum) -- Khōra'
   accessed:
-    - year: 2026
+    -
+      year: 2026
       month: 5
       day: 23
   author:
-    - family: Derrida
+    -
+      family: Derrida
       given: Jacques
   citation-key: derridaName1995
   ISBN: 978-0-8047-2554-5 978-0-8047-2555-2
   issued:
-    - year: 1995
+    -
+      year: 1995
   language: en
   number-of-pages: '174'
   publisher: Stanford University Press
@@ -21,41 +26,43 @@ references:
   type: book
   URL: http://archive.org/details/onname0000derr
 
-- id: derridaSpectersMarxState2011a
+-
+  id: derridaSpectersMarxState2011a
   author:
-    - family: Derrida
+    -
+      family: Derrida
       given: Jacques
   citation-key: derridaSpectersMarxState2011a
   collection-title: Routledge classics
   edition: Repr
   ISBN: 978-0-415-38957-0
   issued:
-    - year: 2011
+    -
+      year: 2011
   number-of-pages: '258'
   publisher: Routledge
   publisher-place: London
   source: K10plus ISBN
-  title: >-
-    Specters of Marx: the state of the debt, the work of mourning and the new
-    international
+  title: 'Specters of Marx: the state of the debt, the work of mourning and the new international'
   title-short: Specters of Marx
   translator:
-    - family: Kamuf
+    -
+      family: Kamuf
       given: Peggy
   type: book
 
-- id: groszNickTimePolitics2004a
-  abstract: >-
-    Prominent feminist theorist rethinks the relationship between evolution and
-    the biological body through the study of three key figures: Darwin,
-    Nietzsche and Bergson
+-
+  id: groszNickTimePolitics2004a
+  abstract: 'Prominent feminist theorist rethinks the relationship between evolution and the biological body through the study of three key figures: Darwin, Nietzsche and Bergson'
   author:
-    - family: Grosz
+    -
+      family: Grosz
       given: Elizabeth
   citation-key: groszNickTimePolitics2004a
   ISBN: 9780822333975 9780822386032 9786613023902 9781283023900
   issued:
-    - year: 2004
+    -
+      year: 2004
   language: en
   number-of-pages: '1'
   publisher: Duke University Press
@@ -65,19 +72,23 @@ references:
   title-short: The nick of time
   type: book
 
-- id: guyer2025a
+-
+  id: guyer2025a
   author:
-    - family: Kant
+    -
+      family: Kant
       given: Immanuel
   citation-key: guyer2025a
   collection-title: The Cambridge Edition of the Works of Immanuel Kant
   edition: 2nd Edition
   editor:
-    - family: Guyer
+    -
+      family: Guyer
       given: Paul
   ISBN: 978-1-009-60005-7
   issued:
-    - year: 2025
+    -
+      year: 2025
   language: en
   publisher: Cambridge university press
   source: BnF ISBN
@@ -85,34 +96,42 @@ references:
   title-short: Kant
   type: book
 
-- id: heideggerConceptTime1992
-
+-
+  id: heidegger2011
   author:
-    - family: Heidegger
+    -
+      family: Heidegger
       given: Martin
-  citation-key: heideggerConceptTime1992
-  ISBN: 978-0-631-18425-6
+  call-number: B3279.H48 B4413 2011
+  citation-key: heidegger2011
+  collection-title: Athlone contemporary European thinkers
+  editor:
+    -
+      family: Farin
+      given: Ingo
+  ISBN: 978-1-4411-9887-7 978-1-4411-0562-2
   issued:
-    - year: 1992
+    -
+      year: 2011
   language: en
-  number-of-pages: '80'
-  publisher: Wiley-Blackwell
-  publisher-place: Oxford
-  source: Amazon
-  title: The Concept of Time
-  translator:
-    - family: McNeill
-      given: William
+  number-of-pages: '102'
+  publisher: Continuum
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: The concept of time
   type: book
 
-- id: heideggerIntroductionMetaphysics2000
+-
+  id: heideggerIntroductionMetaphysics2000
   author:
-    - family: Heidegger
+    -
+      family: Heidegger
       given: Martin
   citation-key: heideggerIntroductionMetaphysics2000
   ISBN: 978-0-300-08328-6 978-0-585-36153-6 978-0-300-16143-4
   issued:
-    - year: 2000
+    -
+      year: 2000
   language: en
   number-of-pages: '254'
   publisher: Yale University Press
@@ -120,35 +139,43 @@ references:
   source: K10plus ISBN
   title: Introduction to metaphysics
   translator:
-    - family: Fried
+    -
+      family: Fried
       given: Gregory
-    - family: Polt
+    -
+      family: Polt
       given: Richard
   type: book
 
-- id: kantProlegomenaAnyFuture
+-
+  id: kantProlegomenaAnyFuture
   author:
-    - family: Kant
+    -
+      family: Kant
       given: Immanuel
   citation-key: kantProlegomenaAnyFuture
   issued:
-    - year: 2016
+    -
+      year: 2016
   language: en
   publisher: Project Gutenberg
   source: Zotero
   title: Prolegomena to Any Future Metaphysics
   type: book
 
-- id: laclauEmancipations1996
+-
+  id: laclauEmancipations1996
   author:
-    - family: Laclau
+    -
+      family: Laclau
       given: Ernesto
   call-number: JC585 .L133 1996
   citation-key: laclauEmancipations1996
   collection-title: Phronesis
   ISBN: 978-1-85984-810-4 978-1-85984-165-5
   issued:
-    - year: 1996
+    -
+      year: 1996
   number-of-pages: '124'
   publisher: Verso
   publisher-place: New York
@@ -156,15 +183,19 @@ references:
   title: Emancipation(s)
   type: book
 
-- id: platoTimaeus2016
+-
+  id: platoTimaeus2016
+  abstract: 'Front Cover -- Focus Philosophical Library -- Title Page -- Copyright Page -- Table of Contents -- Preface to the Second Edition -- Introduction -- Why Read the Timaeus? -- The Dramatic Setting -- The Timaeus in Outline -- Note on the Translation -- Timaeus -- 17A-20C: From the city at peace to the city at war: the desire of Socrates -- 20C-27B: Critias and the distant past: the Egyptian regime, the story of Athens and Atlantis -- 27C-29D: The prologue of Timaeus: likeness and model, Becoming and Being, truth and trust -- 29D-34B: The good craftsman and the cosmic body -- 34B-37C: The cosmic soul: music, motion, thought and the heavens -- 37C-40D: Time and the heavens -- 40D-47E: Gods and mortals -- 47E-53C: The new beginning: necessity and space -- 53C-56C: The construction of the primary bodies -- 56C-69B: Their motions and affections -- 69B-81E: The human body -- 81E-87B: Diseases of body and soul -- 87B-90D: The treatment of body and soul -- 90E-92C: Sex and the lower animals -- Essay -- The Feasting of Socrates -- Solon in Egypt -- The World According to Timaeus -- The First Founding: the Story of Intellect -- The Second Founding: the Story of Necessity -- Completing the Whole: the Story of Man -- Final Reflections -- Glossary -- Appendices -- Appendix A-Music -- Appendix B-Astronomy -- Appendix C-Geometry -- Selected Biblography -- Back Cover'
   author:
-    - family: Plato
+    -
+      family: Plato
       given: ''
   citation-key: platoTimaeus2016
   edition: 2nd ed
   ISBN: 978-1-58510-792-6 978-1-58510-813-8
   issued:
-    - year: 2016
+    -
+      year: 2016
   language: en
   number-of-pages: '1'
   publisher: Hackett Publishing Company, Incorporated
@@ -172,13 +203,16 @@ references:
   source: K10plus ISBN
   title: Timaeus
   translator:
-    - family: Kalkavage
+    -
+      family: Kalkavage
       given: Peter
   type: book
 
-- id: sallisChorologyBeginningPlatos2020
+-
+  id: sallisChorologyBeginningPlatos2020
   author:
-    - family: Sallis
+    -
+      family: Sallis
       given: John
   call-number: '184'
   citation-key: sallisChorologyBeginningPlatos2020
@@ -186,7 +220,8 @@ references:
   collection-title: The collected writings of John Sallis edition
   ISBN: 978-0-253-04666-6 978-0-253-04665-9
   issued:
-    - year: 2020
+    -
+      year: 2020
   language: en
   publisher: Indiana university press
   publisher-place: Bloomington (Ind.)
