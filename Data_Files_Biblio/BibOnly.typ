@@ -1,3 +1,7 @@
+// Barebones pandoc for typst template (called with `-V`)
+// This will format hanging indent biblio entries 
+// when running pandoc directly on CSL JSON files
+
 #let conf(
   title: none,
   subtitle: none,
