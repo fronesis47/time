@@ -12,7 +12,7 @@ author: Samuel A. Chambers
 |14 Sep | Plato, *Timaeus*          |   xi–94      |
 | 21 Sep | Kalkavage, “Essay”; Sallis, *Chorology* | 95–140; 1–45  |
 | 28 Sep | Kant, *Prolegomana* | 7–90 |
-| 5 Oct | Kant, First Critique | Vers. B through 200[^1]  |
+| 5 Oct | Kant, First Critique | Bii–xliv; B1–88[^1]  |
 | 12 Oct | **Exam #1** |  |
 | 19 Oct |  Heidegger, *Introduction*  | vii–xix, 1–78         |
 | 26 Oct  |    Heidegger, *The Concept of Time*  |  vi–ix, 1–88   |
@@ -25,5 +25,7 @@ author: Samuel A. Chambers
 
 
 
-[^1]: 91, 97, 106–24, 136–52, 172–92, 193–200 (63 total pages)
+[^1]: Preface to the end of the Second Part (the Transcendental Logic) of the Transcendental doctrine of the elements, all in the "B" edition. This comprises a total of approximately 63 pages in the Cambridge Edition. Make sure to skip the "A" versions of the preface and the intro.
 [^2]: Only available in the [extra readings folder](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/schamb12_jh_edu/IgDW13dSZMuFQq95PcD1lnnGAZHUBjXheBV0Ox7PLpJfMMg?e=ucplRr). 
+
+
