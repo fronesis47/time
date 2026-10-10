@@ -8,7 +8,7 @@ This directory contains a few files in JSON or YAML format containing a bibliogr
 Students wishing to use these files can:
 1. Import the JSON file directly into a stock installation of [Zotero](https://www.zotero.org/).
 2. Import the YAML file into an installation of Zotero with the [Better BibTex plugin](https://github.com/retorquere/zotero-better-bibtex/releases/tag/v9.0.64).[^bbt]
-3. Use [pandoc](https://www.zotero.org/) to convert directly to working bibliographies.[^pan]
+3. Use [pandoc](https://pandoc.org) to convert directly to working bibliographies.[^pan]
 
 
 [^bbt]: BBT makes everything about zotero better, and is essential if you want to create citekeys for your zotero entries (which you can then use with pandoc or other software).
