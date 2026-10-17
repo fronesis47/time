@@ -17,10 +17,10 @@ author: Samuel A. Chambers
 | 19 Oct |  Heidegger, *Introduction*  | 1–78      |
 | 26 Oct  |    Heidegger, *The Concept of Time*  |  3–88   |
 | 2 Nov |   Derrida, “SEC”[^2]; “Khōra”        |  307–30; 89–127   |
-| 9 Nov |   Derrida, *Specters*        |   vii–xii, 1–95         |
+| 9 Nov |   Derrida, *Specters*        |   xvi–xx, 1–95         |
 | 16 Nov |    **Exam #2**       |            |
-|  30 Nov  |  Laclau, *Emancipations*  | vii–viii, 1–83 |
-| 7 Dec |     Grosz, *Nick of Time*       |         1–154    |
+|  30 Nov  |  Laclau, *Emancipations*  | vii–viii; 1–83 |
+| 7 Dec |     Grosz, *Nick of Time*       |         1–16; 95–154    |
 | 17 Dec | **Final Exam**     |   *2–5pm*   |
 
 
