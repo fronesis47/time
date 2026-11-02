@@ -1,6 +1,7 @@
 ---
 title: Seminar Schedule
 author: Samuel A. Chambers
+date: updated 2 November 2026
 ---
 
 
@@ -19,11 +20,11 @@ author: Samuel A. Chambers
 | 2 Nov |   Derrida, “SEC”[^2]; “Khōra”        |  307–30; 89–127   |
 | 9 Nov |   Derrida, *Specters*        |   xvi–xx; 1–95         |
 | 16 Nov |    **Exam #2**       |            |
-|  30 Nov  |  Laclau, *Emancipations*  | vii–viii; 1–83 |
-| 7 Dec |     Grosz, *Nick of Time*       |         1–16; 95–154    |
+|  30 Nov  |  Coole, *Negativity and Politics*[^2]  | 1–84 |
+| 7 Dec |     Coole, *Negativity and Politics*  | 85–121; 230–245   |
 | 17 Dec | **Final Exam**     |   *2–5pm*   |
 
 
 
 [^1]: Preface to the end of the Second Part (the Transcendental Logic) of the Transcendental doctrine of the elements, all in the "B" edition. This comprises a total of approximately 63 pages in the Cambridge Edition. Make sure to skip the "A" versions of the preface and the intro.
-[^2]: Only available in the [extra readings folder](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/schamb12_jh_edu/IgDW13dSZMuFQq95PcD1lnnGAZHUBjXheBV0Ox7PLpJfMMg?e=ucplRr).
+[^2]: Available in the [extra readings folder](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/schamb12_jh_edu/IgDW13dSZMuFQq95PcD1lnnGAZHUBjXheBV0Ox7PLpJfMMg?e=ucplRr).
